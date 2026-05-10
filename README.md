@@ -499,3 +499,9 @@ Licensed under the MIT License, Copyright © 2026
 
 See [LICENSE](LICENSE) for more information.
 
+ade with ♥ by [Btechkers](https://www.btechkers.com/) [![Twitter](https://img.shields.io/twitter/
+url/https/x.com/WeAreBtechkers.svg?style=social&label=Follow%20%40WeAreBtechkers)](https://x.com/
+WeAreBtechkers)
+Looking for a custom boilerplate to kick off your project? Feel free to reach out anytime at 
+info@btechkers.com!
+
